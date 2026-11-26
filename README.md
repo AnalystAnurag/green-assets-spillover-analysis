@@ -97,7 +97,7 @@ The analysis runs as a 27-step pipeline in one R script. The core VAR, generaliz
 ```
 ├── Connectedness_Analysis_SP500_Full.R   # full analysis pipeline (27 steps)
 ├── DY_Six_Asset_Results.xlsx             # all 34 result tables, one sheet per table
-├── Term_paper_TSA_Group_34.pdf           # full write-up
+├── ReturnVolatility_Connectedness.pdf    # full write-up
 ├── data/                                 # input price files (see below)
 ├── figures/                              # created by the script
 └── tables/                               # created by the script
