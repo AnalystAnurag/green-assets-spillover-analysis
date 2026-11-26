@@ -139,8 +139,8 @@ The script creates `figures/` (24 charts) and `tables/` (CSV files), then collec
 
 ## Authors
 
-**Anurag Dash** and **Kratika**, M.Sc. Business Analytics, Manipal School of Commerce & Economics
-Guided by **Dr. Satyaban Sahoo**, Assistant Professor
+**Anurag Dash**, M.Sc. Business Analytics, Manipal School of Commerce & Economics
+
 
 ## Key reference
 
