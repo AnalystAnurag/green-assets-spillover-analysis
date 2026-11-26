@@ -7,7 +7,7 @@
 
 ## In one minute
 
-Investors often treat green investments (clean-energy stocks and green bonds) as a diversifier, something that holds up when the stock market falls. We tested that claim on about 2,200 trading days of data across six asset classes.
+Investors often treat green investments (clean-energy stocks and green bonds) as a diversifier, something that holds up when the stock market falls. I tested that claim on about 2,200 trading days of data across six asset classes.
 
 **Short answer: they don't protect you when it matters.**
 
@@ -20,7 +20,7 @@ Investors often treat green investments (clean-energy stocks and green bonds) as
 
 ## The question and the hypotheses
 
-We framed the work as **7 research questions and 11 testable hypotheses**, each with a clear accept or reject rule. The script outputs a final scorecard (`26_hypothesis_scorecard`):
+I framed the work as **7 research questions and 11 testable hypotheses**, each with a clear accept or reject rule. The script outputs a final scorecard (`26_hypothesis_scorecard`):
 
 | # | Hypothesis | Result |
 |---|---|---|
