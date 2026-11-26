@@ -2,8 +2,7 @@
 
 **Return and volatility spillovers among the S&P 500, gold, crude oil, Bitcoin and green assets (2017–2025)**
 
-*Diebold–Yilmaz connectedness analysis in R · Term paper, Time Series Analysis, M.Sc. Business Analytics, Manipal Academy of Higher Education*
-
+*Diebold–Yilmaz connectedness analysis in R 
 ---
 
 ## In one minute
